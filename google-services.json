@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728955877707",
+    "project_id": "vinicius-iftm",
+    "storage_bucket": "vinicius-iftm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728955877707:android:c5521cc81b807a1a6e90ce",
+        "android_client_info": {
+          "package_name": "com.iftm.edu.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728955877707-d1li6mb2dguuo10daeqlpc5qlj4pfu64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSx7wJQR22h59o4Jd1Oj0OuEpzYZNXcLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728955877707-d1li6mb2dguuo10daeqlpc5qlj4pfu64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
